@@ -1,0 +1,14 @@
+.table-main{
+    width: 70vw;
+    font-size: 10px;
+}
+table,td,th,tr{
+    border: 1px solid black;
+    /* background-color: green; */
+}
+.danger{
+    color: red;
+}
+.success{
+    color: green;
+}
